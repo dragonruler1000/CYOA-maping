@@ -1,0 +1,14 @@
+{
+    "7": {
+        "wait for your friends to call back": "13",
+        "go immediately to the address": "4"
+    },
+    "9": {
+        "make a hasty retreat": "29",
+        "rush to give the man aid": "3"
+    },
+    "10": {
+        "call the police": "63",
+        "come back later and sneak in": "14"
+    }
+}
